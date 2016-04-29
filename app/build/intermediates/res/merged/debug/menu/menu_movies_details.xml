@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.movies.basel.mymoviesapp.MoviesDetails">
+
+    <item
+        android:id="@+id/shareTopic"
+        android:icon="@android:drawable/ic_menu_share"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"
+        android:title="@string/abc_shareactionprovider_share_with_application" />
+    <item
+        android:id="@+id/addfavorite"
+        android:icon="@android:drawable/star_big_on"
+        android:orderInCategory="300"
+        app:showAsAction="ifRoom"
+        android:title="@string/abc_action_bar_home_description" />
+
+</menu>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Basel\\Dropbox\\MAl\\MyMoviesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\Basel\\Dropbox\\MAl\\MyMoviesApp\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Basel\\Dropbox\\MAl\\MyMoviesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Basel\\Dropbox\\MAl\\MyMoviesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]
